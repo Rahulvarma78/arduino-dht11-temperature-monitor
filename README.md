@@ -16,8 +16,7 @@
 - 220Ω Resistors
 
 ## Circuit Diagram
-
-(Add image here)
+https://wokwi.com/projects/466358190244982785
 
 ## Future Improvements
 - OLED display
